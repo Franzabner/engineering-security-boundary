@@ -20,7 +20,7 @@ This repo is not a security compliance claim, legal approval, client approval, m
 | Publication state | private/not-public |
 | Release state | not released |
 | Public GitHub repo | planned |
-| First artifact | `publication-decision-trees/artifact-publication-decision-tree.md` scaffold |
+| First artifact | `publication-decision-trees/artifact-publication-decision-tree.md` completed as scaffolded local artifact |
 | Published artifact | private/not-public |
 | Released artifact | not released |
 | Profile routing | planned |
@@ -70,4 +70,4 @@ Profile routing and proof-stack routing are planned only. Any link from `Franzab
 
 ## First Build Task
 
-First artifact scaffolded: `publication-decision-trees/artifact-publication-decision-tree.md`.
+First artifact scaffolded: `publication-decision-trees/artifact-publication-decision-tree.md` now covers problem statement, synthetic security/boundary context, public/private/sealed definitions, secrets-handling rules, repo visibility rules, agent permission boundaries, data boundary categories, artifact-publication decision tree, validation questions, proof limits, and public/private/sealed checklist.
