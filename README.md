@@ -1,12 +1,12 @@
 # Engineering Security Boundary
 
 Status: scaffolded
-Publication state: private/not-public
+Publication state: public scaffold
 Release state: not released
 
 ## What This Repo Is
 
-`engineering-security-boundary` is a Phase 6 local-only scaffold for public/private/sealed boundary rules, secrets handling, repository visibility rules, agent permissions, data boundaries, client boundaries, Foundation boundaries, model-training boundaries, and artifact publication decision trees.
+`engineering-security-boundary` is a Phase 6 public scaffold for public/private/sealed boundary rules, secrets handling, repository visibility rules, agent permissions, data boundaries, client boundaries, Foundation boundaries, model-training boundaries, and artifact publication decision trees.
 
 ## What This Repo Is Not
 
@@ -17,11 +17,11 @@ This repo is not a security compliance claim, legal approval, client approval, m
 | Field | Value |
 | --- | --- |
 | Status | scaffolded |
-| Publication state | private/not-public |
+| Publication state | public scaffold |
 | Release state | not released |
-| Public GitHub repo | planned |
-| First artifact | `publication-decision-trees/artifact-publication-decision-tree.md` completed as scaffolded local artifact |
-| Published artifact | private/not-public |
+| Public GitHub repo | published scaffold |
+| First artifact | `publication-decision-trees/artifact-publication-decision-tree.md` completed as scaffolded public artifact |
+| Published artifact | scaffolded |
 | Released artifact | not released |
 | Profile routing | planned |
 | Proof-stack routing | planned |
